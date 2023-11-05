@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css"/>
 # ES6-Enthusiasts
 
 ## Team Description
@@ -5,7 +6,6 @@
 A highly motivated team of ICS students, with the express goal to create quality software that solves community problems.
 
 ## Team Members
-
 
 |                                                                                                                        | Name             | Role | GitHub Handle    |
 |------------------------------------------------------------------------------------------------------------------------|------------------|------|------------------|
