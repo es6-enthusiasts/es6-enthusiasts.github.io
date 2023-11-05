@@ -17,7 +17,8 @@ A highly motivated team of ICS students, with the express goal to create quality
 
 ## Projects
 
-1. [Toaster Oven Lovin](https://github.com/your-organization/project1): Brief description of the project.
+1. [Toaster Oven Lovin](https://github.com/your-organization/project1): A project that helps students with limited cooking skills and or, access to cooking resources
+find quality and healthy recipes, in accordance with the following [Project Specification](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
 
 ## Goals and Milestones
 
