@@ -2,24 +2,22 @@
 
 ## Team Description
 
-Provide a brief description of your team. What is your team's purpose or mission within the organization? What are your goals and objectives?
+A highly motivated team of ICS students, with the express goal to create quality software that solves community problems.
 
 ## Team Members
 
-List the members of your team, along with their roles and responsibilities. You can use a table for a structured format:
 
-| Name             | Role                  | GitHub Handle    |
-|------------------|-----------------------|------------------|
-| Team Member 1    | Project Manager       | @team-member-1   |
-| Team Member 2    | Developer             | @team-member-2   |
-| Team Member 3    | Designer              | @team-member-3   |
+|                                                                                                                        | Name             | Role | GitHub Handle    |
+|------------------------------------------------------------------------------------------------------------------------|------------------|------|------------------|
+| <img src="https://github.com/julietteraubolt.png" alt="Juliette" width="100" height="100" style="border-radius: 50%;"> | Juliette Raubolt | Role | @julietteraubolt |
+| <img src="https://github.com/loellelam.png" alt="Loelle" width="100" height="100" style="border-radius: 50%;">         | Loelle Lam       | Role | @loellelam       |
+| <img src="https://github.com/janeljo.png" alt="Janel" width="100" height="100" style="border-radius: 50%;">            | Janel Joson      | Role | @janeljo         |
+| <img src="https://github.com/kyla8.png" alt="Kyla" width="100" height="100" style="border-radius: 50%;">               | Kyla Lee         | Role | @kyla8           |
+| <img src="https://github.com/willjsimmons.png" alt="William" width="100" height="100" style="border-radius: 50%;">     | William Simmons  | Role | @willjsimmons    |
 
 ## Projects
 
-List the projects or initiatives that your team is currently working on. Include brief descriptions and links to relevant repositories or documentation.
-
-1. [Project 1](https://github.com/your-organization/project1): Brief description of the project.
-2. [Project 2](https://github.com/your-organization/project2): Brief description of the project.
+1. [Toaster Oven Lovin](https://github.com/your-organization/project1): Brief description of the project.
 
 ## Goals and Milestones
 
@@ -38,4 +36,3 @@ Provide contact information for the team lead or a primary contact person within
 
 ---
 
-**Note:** Customize this template to fit the specific details and structure of your team within the organization. You can add or remove sections as needed and include any additional information that's relevant to your team's purpose and activities.
