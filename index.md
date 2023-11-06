@@ -18,7 +18,7 @@ All members of this team have agreed to abide by the following [contract](https:
 
 ## Projects
 
-1. [Toaster Oven Lovin](https://github.com/es6-enthusiasts/ToasterOvenLovin): A project that helps students with limited cooking skills and or, access to cooking resources
+1. [Toaster Oven Lovin](es6-enthusiasts.github.io/ToasterOvenLovin): A project that helps students with limited cooking skills and or, access to cooking resources
 find quality and healthy recipes, in accordance with the following [Project Specification](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
 
 ## Team Goals
