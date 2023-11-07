@@ -1,13 +1,12 @@
 # Toaster Oven Lovin
 
-Welcome to Toaster Oven Lovin, a project dedicated to helping students with limited cooking skills and resources find quality and healthy toaster oven recipes.
+Welcome to Toaster Oven Lovin, a project dedicated to helping students with limited cooking skills and resources find quality and healthy recipes.
 
 ## Purpose
 
 Toaster Oven Lovin aims to accomplish the following goals:
 
-- Provide a curated collection of simple and healthy toaster oven recipes suitable for students.
-- Offer guidance and tips on using a toaster oven effectively for cooking.
+- Provide a curated collection of simple and healthy toaster oven capable recipes suitable for students.
 - Encourage students to adopt nutritious eating habits.
 - Create a supportive community for sharing recipes and cooking experiences.
 
@@ -33,17 +32,10 @@ Toaster Oven Lovin aims to accomplish the following goals:
 
 ## Getting Started
 
-### Prerequisites
 
-To get started with Toaster Oven Lovin, you'll need:
+## Milestones
 
-- Access to the internet.
-- A toaster oven.
-- An appetite for delicious and healthy food!
-
-### Installation
-
-Toaster Oven Lovin is a web-based project. You don't need to install anything. Just visit our website at [https://www.toasterovenlovin.com](https://www.toasterovenlovin.com) to begin your culinary journey.
+1. [ ] Milestone 1
 
 ## Usage
 
