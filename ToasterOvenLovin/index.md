@@ -42,13 +42,13 @@ Toaster Oven Lovin aims to accomplish the following goals:
 
 ## Usage
 
-2. Browse the recipe categories and select a recipe that piques your interest.
+1. Browse the recipe categories and select a recipe that piques your interest.
 
-3. Follow the step-by-step instructions, and don't forget to check the nutritional information.
+2. Follow the step-by-step instructions, and don't forget to check the nutritional information.
 
-4. If you have a unique and more importantly simple recipe to share, click on the "Contribute" button and submit your own creation.
+3. If you have a unique and more importantly simple recipe to share, click on the "Contribute" button and submit your own creation.
 
-5. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
+4. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
 
 ---
 
