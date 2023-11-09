@@ -22,26 +22,27 @@ All members of this team have agreed to abide by the following [contract](https:
 
 
 A project that helps students with limited cooking skills and or, access to cooking resources
-find quality and healthy recipes, in accordance with the project specification be
+find quality and healthy recipes, in accordance with the project specifications below.
 
-[Project Specification](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
+[Project Specifications](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
 
 
 ## Team Goals
 
-Outline the team's goals and milestones. What are you aiming to achieve in the coming months or quarters? You can use bullet points or a table for clarity.
-
+- Learn to work together as a team and evenly distribute work and contributions
+- Design a user-friendly and intuititve app
+- Improve individual coding skills and adhere to coding standards
 
 
 ## Meetings and Communication
 
-Given the teams adoption of a 72hour sprint cycle, Our team meets biweekly at a minimum.
+Given the teams adoption of a 72 hour sprint cycle, Our team meets biweekly at a minimum.
 Official Communications are disseminated via Discord. 
 The team also leverages Github projects as a means of organizing and assigning tasks
 
 ## Contact
 
-Please email wjs7@hawaii.edu for any inquiries.
+Please email [wjs7@hawaii.edu](wjs7@hawaii.edu) for any inquiries.
 
 ---
 
