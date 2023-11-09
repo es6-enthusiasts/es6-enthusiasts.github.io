@@ -30,12 +30,17 @@ Toaster Oven Lovin aims to accomplish the following goals:
 
 - **User Contributions**: Share your own toaster oven recipes and cooking ideas with the Toaster Oven Lovin community.
 
-## Getting Started
+## Project Mockups
+Landing Page
+<img src="/images/MockupCrop.png">
+
+View Vendors
+<img src="/images/ViewVendors.png">
 
 
 ## Milestones
 
-1. [ ] Milestone 1
+1. [ ] Milestone 1: Deploy to Digital Ocean, functional landing page, at least 4 mockup pages
 
 ## Usage
 
