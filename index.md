@@ -20,11 +20,8 @@ All members of this team have agreed to abide by the following [contract](https:
 
 1. [Toaster Oven Lovin](/ToasterOvenLovin):
 
-
 A project that helps students with limited cooking skills and or, access to cooking resources
-find quality and healthy recipes, in accordance with the project specifications below.
-
-[Project Specifications](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
+find quality and healthy recipes, in accordance with the [project specifications](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
 
 
 ## Team Goals
@@ -36,9 +33,7 @@ find quality and healthy recipes, in accordance with the project specifications 
 
 ## Meetings and Communication
 
-Given the teams adoption of a 72 hour sprint cycle, Our team meets biweekly at a minimum.
-Official Communications are disseminated via Discord. 
-The team also leverages Github projects as a means of organizing and assigning tasks
+Given the teams adoption of a 72 hour sprint cycle, our team meets biweekly at a minimum and official Communications are disseminated via project group Discord server. The team also leverages Github projects as a means of organizing and assigning tasks.
 
 ## Contact
 
