@@ -31,10 +31,10 @@ Toaster Oven Lovin aims to accomplish the following goals:
 - **User Contributions**: Share your own toaster oven recipes and cooking ideas with the Toaster Oven Lovin community.
 
 ## Project Mockups
-Landing Page
+**Landing Page**
 <img src="/images/MockupCrop.png">
 
-View Vendors
+**View Vendors**
 <img src="/images/ViewVendors.png">
 
 
