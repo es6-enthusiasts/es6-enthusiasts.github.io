@@ -35,6 +35,14 @@ Toaster Oven Lovin aims to accomplish the following goals:
 **View Vendors**
 <img src="/images/ViewVendors.png">
 
+**View Recipes**
+<img src="/images/ViewRecipes.jpeg">
+
+**Add Recipe**
+<img src="/images/AddRecipe.jpeg">
+
+**Edit Recipe**
+<img src="/images/EditRecipe.jpeg">
 
 ## Milestones
 
