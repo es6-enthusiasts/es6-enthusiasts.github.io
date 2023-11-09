@@ -20,6 +20,8 @@ All members of this team have agreed to abide by the following [contract](https:
 
 1. [Toaster Oven Lovin](/ToasterOvenLovin):
 
+<img src="/images/MockupCrop.png">>
+
 A project that helps students with limited cooking skills and or, access to cooking resources
 find quality and healthy recipes, in accordance with the [project specifications](https://courses.ics.hawaii.edu/ics314f23/morea/final-project/reading-project-toaster-oven-lovin.html).
 
