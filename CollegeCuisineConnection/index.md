@@ -1,10 +1,10 @@
-# Toaster Oven Lovin
+# College Cuisine Connection
 
-Welcome to Toaster Oven Lovin, a project dedicated to helping students with limited cooking skills and resources find quality and healthy recipes.
+Welcome to College Cuisine Connection, a project dedicated to helping students with limited cooking skills and resources find quality and healthy recipes.
 
 ## Purpose
 
-Toaster Oven Lovin aims to accomplish the following goals:
+College Cuisine Connection aims to accomplish the following goals:
 
 - Provide a curated collection of simple and healthy toaster oven capable recipes suitable for students.
 - Encourage students to adopt nutritious eating habits.
@@ -26,7 +26,7 @@ Toaster Oven Lovin aims to accomplish the following goals:
 
 - **Nutritional Information**: Access nutritional details for each recipe to make informed dietary choices.
 
-- **User Contributions**: Share your own toaster oven recipes and cooking ideas with the Toaster Oven Lovin community.
+- **User Contributions**: Share your own toaster oven recipes and cooking ideas with the College Cuisine Connection.t community.
 
 ## Project-Mockups
 **Landing Page**

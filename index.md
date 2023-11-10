@@ -18,7 +18,7 @@ All members of this team have agreed to abide by the following [contract](https:
 
 ## Projects
 
-1. [Toaster Oven Lovin](/ToasterOvenLovin):
+1. [College Cuisine Connection](/CollegeCuisineConnection):
 
 <img src="/images/MockupCrop.png">
 
