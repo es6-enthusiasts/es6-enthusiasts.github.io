@@ -13,10 +13,11 @@ College Cuisine Connection aims to accomplish the following goals:
 ## Table of Contents
 
 - [Purpose](#purpose)
-- [features](#features)
+- [Features](#features)
 - [Mockups](#project-mockups)
-- [Milestones](#milestones)
 - [Usage](#usage)
+- [Deployment](#deployment)
+- [Milestones](#milestones)
 
 ## Features
 
@@ -44,10 +45,6 @@ College Cuisine Connection aims to accomplish the following goals:
 **Edit Recipe**
 <img src="/images/EditRecipe.jpeg">
 
-## Milestones
-
-1. [ ] Milestone 1: Deploy to Digital Ocean, functional landing page, at least 4 mockup pages
-
 ## Usage
 
 1. Browse the recipe categories and select a recipe that piques your interest.
@@ -57,6 +54,21 @@ College Cuisine Connection aims to accomplish the following goals:
 3. If you have a unique and more importantly simple recipe to share, click on the "Contribute" button and submit your own creation.
 
 4. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
+
+## Deployment
+Our [College Cuisine Connect application](http://147.182.198.190/) running on Digital Ocean.
+
+## Milestones
+
+1. [Milestone 1](https://github.com/orgs/es6-enthusiasts/projects/1)
+  [x] Deploy to Digital Ocean
+  [x] Functional landing page
+  [x] At least 4 mockup pages
+
+2. Milestone 2
+  [ ] Four pages in addition to the Landing page
+  [ ] At least one page in the deployment should read data from the database
+  [ ] At least one page in the deployment should write data to the database
 
 ---
 
