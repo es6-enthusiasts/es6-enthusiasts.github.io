@@ -65,6 +65,15 @@ Our [College Cuisine Connect application](http://147.182.198.190/) is running on
 - [x] Functional landing page
 - [x] At least 4 mockup pages
 
+**Landing**
+<img src="/images/m1_landing.png">
+
+**Recipes**
+<img src="/images/m1_recipes.png">
+
+**Vendors**
+<img src="/images/m1_vendors.png">
+
 [**Milestone 2**](https://github.com/orgs/es6-enthusiasts/projects/4)
 - [ ] Four pages in addition to the Landing page
 - [ ] At least one page in the deployment should read data from the database
