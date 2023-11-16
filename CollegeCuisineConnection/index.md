@@ -29,7 +29,7 @@ College Cuisine Connection aims to accomplish the following goals:
 
 - **User Contributions**: Share your own toaster oven recipes and cooking ideas with the College Cuisine Connection.t community.
 
-## Project-Mockups
+## Project Mockups
 **Landing Page**
 <img src="/images/MockupCrop.png">
 
@@ -56,19 +56,19 @@ College Cuisine Connection aims to accomplish the following goals:
 4. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
 
 ## Deployment
-Our [College Cuisine Connect application](http://147.182.198.190/) running on Digital Ocean.
+Our [College Cuisine Connect application](http://147.182.198.190/) is running on Digital Ocean.
 
 ## Milestones
 
-1. [Milestone 1](https://github.com/orgs/es6-enthusiasts/projects/1)
-  [x] Deploy to Digital Ocean
-  [x] Functional landing page
-  [x] At least 4 mockup pages
+[**Milestone 1**](https://github.com/orgs/es6-enthusiasts/projects/1)
+- [x] Deploy to Digital Ocean
+- [x] Functional landing page
+- [x] At least 4 mockup pages
 
-2. Milestone 2
-  [ ] Four pages in addition to the Landing page
-  [ ] At least one page in the deployment should read data from the database
-  [ ] At least one page in the deployment should write data to the database
+**Milestone 2**
+- [ ] Four pages in addition to the Landing page
+- [ ] At least one page in the deployment should read data from the database
+- [ ] At least one page in the deployment should write data to the database
 
 ---
 
