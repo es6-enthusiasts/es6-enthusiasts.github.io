@@ -74,6 +74,9 @@ Our [College Cuisine Connect application](http://147.182.198.190/) is running on
 **Vendors**
 <img src="/images/m1_vendors.png">
 
+**Edit Recipes**
+<img src="/images/m1_edit.png">
+
 [**Milestone 2**](https://github.com/orgs/es6-enthusiasts/projects/4)
 - [ ] Four pages in addition to the Landing page
 - [ ] At least one page in the deployment should read data from the database
