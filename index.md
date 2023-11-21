@@ -18,7 +18,9 @@ All members of this team have agreed to abide by the following [contract](https:
 
 ## Projects
 
-1. [College Cuisine Connection](/CollegeCuisineConnection):
+[![More details on College Cuisine Connect](/CollegeCuisineConnection)
+
+1. College Cuisine Connect:
 
 <img src="/images/MockupCrop.png">
 
