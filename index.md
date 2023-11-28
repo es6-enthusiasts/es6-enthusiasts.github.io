@@ -18,9 +18,7 @@ All members of this team have agreed to abide by the following [contract](https:
 
 ## Projects
 
-[![More details on College Cuisine Connect](/CollegeCuisineConnection)
-
-1. College Cuisine Connect:
+1. College Cuisine Connect: [![Button Click]](https://es6-enthusiasts.github.io/CollegeCuisineConnection/) 
 
 <img src="/images/MockupCrop.png">
 
@@ -44,4 +42,6 @@ Given the teams adoption of a 72 hour sprint cycle, our team meets biweekly at a
 Please email [wjs7@hawaii.edu](wjs7@hawaii.edu) for any inquiries.
 
 ---
+<!---------------------------------------------------------------------------->
 
+[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
