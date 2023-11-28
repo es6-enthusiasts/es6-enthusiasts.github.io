@@ -102,6 +102,12 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 **Edit Recipes** <br>
 <img src="/images/edit_recipe.png" alt="View Recipes" width="500">
 
+**Vendors** <br>
+<img src="/images/m2_vendors.png" alt="View Recipes" width="500">
+
+**My Cookbook** <br>
+<img src="/images/m2_cookbook.png" alt="View Recipes" width="500">
+
 [**Milestone 3**](https://github.com/orgs/es6-enthusiasts/projects/5)
 - [ ] Significantly improve the functionality of your system from Milestone M2.
 - [ ] Incorporate a significant amount of “real” data into your system.
