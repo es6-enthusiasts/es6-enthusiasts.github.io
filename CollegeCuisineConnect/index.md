@@ -72,6 +72,9 @@ College Cuisine Connect aims to accomplish the following goals:
 ## Deployment
 Our [College Cuisine Connect application](https://collegecuisineconnect.site/) is running on Digital Ocean.
 
+## CI
+![ci-badge](https://github.com/es6-enthusiasts/ToasterOvenLovin/workflows/ci-meteor-application-template-react/badge.svg)
+
 ## Milestones
 
 [**Milestone 1**](https://github.com/orgs/es6-enthusiasts/projects/1)
