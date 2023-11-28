@@ -18,7 +18,7 @@ All members of this team have agreed to abide by the following [contract](https:
 
 ## Projects
 
-1. College Cuisine Connect: [![Button Click]](https://es6-enthusiasts.github.io/CollegeCuisineConnection/) 
+1. College Cuisine Connect: [![Button Click]](https://es6-enthusiasts.github.io/CollegeCuisineConnect/) 
 
 <img src="/images/MockupCrop.png">
 
