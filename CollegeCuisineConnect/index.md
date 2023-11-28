@@ -92,9 +92,9 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 <img src="/images/m1_edit.png" alt="Edit Recipes" width="500">
 
 [**Milestone 2**](https://github.com/orgs/es6-enthusiasts/projects/4)
-- [ ] Four pages in addition to the Landing page
-- [ ] At least one page in the deployment should read data from the database
-- [ ] At least one page in the deployment should write data to the database
+- [x] Four pages in addition to the Landing page
+- [x] At least one page in the deployment should read data from the database
+- [x] At least one page in the deployment should write data to the database
 
 **Add Recipes** <br>
 <img src="/images/add_recipe.png" alt="View Recipes" width="500">
