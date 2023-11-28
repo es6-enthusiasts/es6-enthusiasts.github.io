@@ -96,6 +96,12 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 - [ ] At least one page in the deployment should read data from the database
 - [ ] At least one page in the deployment should write data to the database
 
+[**Milestone 3**](https://github.com/orgs/es6-enthusiasts/projects/5)
+- [ ] Significantly improve the functionality of your system from Milestone M2.
+- [ ] Incorporate a significant amount of “real” data into your system.
+- [ ] Find at least five UH community members (not from ICS 314) to try out your system and provide feedback.
+- [ ] Implement acceptance testing.
+
 ---
 
 We're excited to help students embrace the simplicity and deliciousness of dorm room cooking. If you have any questions, suggestions, or feedback, please feel free to reach out.
