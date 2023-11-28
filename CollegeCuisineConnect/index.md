@@ -33,6 +33,12 @@ College Cuisine Connect aims to accomplish the following goals:
 - Encourage students to adopt nutritious eating habits.
 - Create a supportive community for sharing recipes and cooking experiences.
 
+### Problem Statement:
+Many college students struggle to maintain a healthy diet due to time constraints, limited cooking facilities, and a lack of easy-to-follow recipes tailored to their specific needs. The absence of a dedicated platform catering to students with toaster ovens exacerbates the issue, as conventional cooking resources often overlook this common dormitory appliance. Consequently, students find it challenging to adopt nutritious eating habits, leading to a higher prevalence of unhealthy dietary choices and potential long-term health issues.
+
+### Solution:
+In response to these challenges, we propose "College Cuisine Connect," a comprehensive platform designed to address the unique culinary needs of college students. Our solution involves providing a carefully curated collection of simple and healthy toaster oven-capable recipes specifically tailored for students, taking into account their time constraints and limited cooking resources. By doing so, we aim to empower students to make healthier food choices without compromising on convenience. Moreover, our platform will foster a supportive community where students can share their favorite recipes and cooking experiences, creating a collaborative environment that encourages the adoption of nutritious eating habits. Through College Cuisine Connect, we envision a positive shift in the dietary choices and overall well-being of college students, promoting a healthier lifestyle during their academic journey.
+
 ## Features
 
 - **"Toaster Oven Recipes"**: Explore a diverse range of simple recipes that are easy to follow and budget-friendly.
@@ -72,7 +78,7 @@ College Cuisine Connect aims to accomplish the following goals:
 ## Deployment
 Our [College Cuisine Connect application](https://collegecuisineconnect.site/) is running on Digital Ocean.
 
-## CI
+## Continuous Integration
 ![ci-badge](https://github.com/es6-enthusiasts/ToasterOvenLovin/workflows/college-cuisine-connect/badge.svg)
 
 ## Milestones
