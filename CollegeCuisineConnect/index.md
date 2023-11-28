@@ -2,6 +2,29 @@
 
 Welcome to College Cuisine Connect, a project dedicated to helping students with limited cooking skills and resources find quality and healthy recipes.
 
+
+## Table of Contents
+
+- [Team Members](#team-members)
+- [Purpose](#purpose)
+- [Features](#features)
+- [Mockups](#project-mockups)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [Milestones](#milestones)
+
+## Team Members
+
+|                                                                                                                        | Name             | Role                   | GitHub Handle    |
+|------------------------------------------------------------------------------------------------------------------------|------------------|------------------------|------------------|
+| <img src="https://github.com/julietteraubolt.png" alt="Juliette" width="100" height="100" style="border-radius: 50%;"> | Juliette Raubolt | Solutions Architect    | @julietteraubolt |
+| <img src="https://github.com/loellelam.png" alt="Loelle" width="100" height="100" style="border-radius: 50%;">         | Loelle Lam       | UX Dev and Design Lead | @loellelam       |
+| <img src="https://github.com/janeljo.png" alt="Janel" width="100" height="100" style="border-radius: 50%;">            | Janel Joson      | Development-Lead       | @janeljo         |
+| <img src="https://github.com/kyla8.png" alt="Kyla" width="100" height="100" style="border-radius: 50%;">               | Kyla Lee         | Database Architect     | @kyla8           |
+| <img src="https://github.com/willjsimmons.png" alt="William" width="100" height="100" style="border-radius: 50%;">     | William Simmons  | Scrum-Master           | @willjsimmons    |
+ 
+All members of this team have agreed to abide by the following [contract](https://docs.google.com/document/d/1o7tGRP024l86Usm7qH7RX9-gTofHFc-ff8x5b5ZbVPA/edit?usp=sharing).
+
 ## Purpose
 
 College Cuisine Connect aims to accomplish the following goals:
@@ -10,40 +33,31 @@ College Cuisine Connect aims to accomplish the following goals:
 - Encourage students to adopt nutritious eating habits.
 - Create a supportive community for sharing recipes and cooking experiences.
 
-## Table of Contents
-
-- [Purpose](#purpose)
-- [Features](#features)
-- [Mockups](#project-mockups)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Milestones](#milestones)
-
 ## Features
 
-- **Toaster Oven Recipes**: Explore a diverse range of toaster oven recipes that are easy to follow and budget-friendly.
+- **"Toaster Oven Recipes"**: Explore a diverse range of simple recipes that are easy to follow and budget-friendly.
 
-- **Cooking Tips**: Find tips and tricks for using your toaster oven effectively, even with limited resources.
+- **Cooking Tips**: Find tips and tricks for using your cooking equipment effectively, even with limited resources.
 
 - **Nutritional Information**: Access nutritional details for each recipe to make informed dietary choices.
 
-- **User Contributions**: Share your own toaster oven recipes and cooking ideas with the College Cuisine Connect community.
+- **User Contributions**: Share your own tried-and-true recipes or cooking ideas with the College Cuisine Connect community.
 
 ## Project Mockups
-**Landing Page**
-<img src="/images/MockupCrop.png">
+**Landing Page** <br>
+<img src="/images/MockupCrop.png" alt="Landing Page" width="500">
 
-**View Vendors**
-<img src="/images/ViewVendors.png">
+**View Vendors** <br>
+<img src="/images/ViewVendors.png" alt="View Vendors" width="500">
 
-**View Recipes**
-<img src="/images/ViewRecipes.jpeg">
+**View Recipes** <br>
+<img src="/images/ViewRecipes.jpeg" alt="View Recipes" width="500">>
 
-**Add Recipe**
-<img src="/images/AddRecipe.jpeg">
+**Add Recipe** <br>
+<img src="/images/AddRecipe.jpeg" alt="Add Recipe" width="500">>
 
-**Edit Recipe**
-<img src="/images/EditRecipe.jpeg">
+**Edit Recipe** <br>
+<img src="/images/EditRecipe.jpeg" alt="Edit Recipe" width="500">
 
 ## Usage
 
@@ -56,7 +70,7 @@ College Cuisine Connect aims to accomplish the following goals:
 4. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
 
 ## Deployment
-Our [College Cuisine Connect application](http://147.182.198.190/) is running on Digital Ocean.
+Our [College Cuisine Connect application](https://collegecuisineconnect.site/) is running on Digital Ocean.
 
 ## Milestones
 
@@ -65,17 +79,17 @@ Our [College Cuisine Connect application](http://147.182.198.190/) is running on
 - [x] Functional landing page
 - [x] At least 4 mockup pages
 
-**Landing**
-<img src="/images/m1_landing.png">
+**Landing** <br>
+<img src="/images/m1_landing.png" alt="Landing" width="500">
 
-**Recipes**
-<img src="/images/m1_recipes.png">
+**Recipes** <br>
+<img src="/images/m1_recipes.png" alt="View Recipes" width="500">
 
-**Vendors**
-<img src="/images/m1_vendors.png">
+**Vendors** <br>
+<img src="/images/m1_vendors.png" alt="View Vendors" width="500">
 
-**Edit Recipes**
-<img src="/images/m1_edit.png">
+**Edit Recipes** <br> 
+<img src="/images/m1_edit.png" alt="Edit Recipes" width="500">
 
 [**Milestone 2**](https://github.com/orgs/es6-enthusiasts/projects/4)
 - [ ] Four pages in addition to the Landing page
