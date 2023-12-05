@@ -60,7 +60,7 @@ Below the page title, you will see an option to add a new store. Clicking the bu
 <img src="/images/tutorial/login.png" alt="Navbar" width="500"><br>
 Log in or sign up for an admin account. Access the login page through the navigation bar in the top right corner.
 
-<img src="/images/tutorial/admim.png" alt="Admin" width="500"><br>
+<img src="/images/tutorial/admin.png" alt="Admin" width="500"><br>
 Admins have access to all pages for every type of user. They can view additional information and modify all types of content to ensure the integrity of the application.
 
 ---
