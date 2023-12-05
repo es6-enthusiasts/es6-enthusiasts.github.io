@@ -12,6 +12,7 @@ Welcome to College Cuisine Connect, a project dedicated to helping students with
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Milestones](#milestones)
+- [Tutorial](https://es6-enthusiasts.github.io/CollegeCuisineConnect/tutorial)
 
 ## Team Members
 
@@ -122,6 +123,9 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 - [ ] Incorporate a significant amount of “real” data into your system.
 - [ ] Find at least five UH community members (not from ICS 314) to try out your system and provide feedback.
 - [ ] Implement acceptance testing.
+
+## Tutorial
+Learn how to start using College Cuisine Connect now! Follow our tutorial [here](https://es6-enthusiasts.github.io/CollegeCuisineConnect/tutorial).
 
 ---
 
