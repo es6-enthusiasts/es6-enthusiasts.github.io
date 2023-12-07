@@ -50,7 +50,7 @@ Log in or sign up for a vendor account. Access the login page through the naviga
 <img src="/images/tutorial/myStores.png" alt="My Stores" width="500"><br>
 In the navigation bar, click on "My Stores" to view stores that belong to you.
 
-<img src="/images/tutorial/editStore" alt="Edit Store" width="500"><br>
+<img src="/images/tutorial/editStore.png" alt="Edit Store" width="500"><br>
 Each store profile card has an edit button that allows you to modify the shop information. 
 
 <img src="/images/tutorial/addStore.png" alt="Add Store" width="500"><br>
