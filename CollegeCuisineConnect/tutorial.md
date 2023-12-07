@@ -7,7 +7,9 @@ Choose the role that best aligns with your profile.
 - [Guest](#guest) - Browse recipes, vendors, and the community without signing up.
 - [Student](#student) - Create your own cookbook and share your recipes.
 - [Vendor](#vendor) - Establish your store profile and showcase your curated selection of ingredients.
-- [Admin](#admin) - Manage user accounts and moderate all content.
+- [Admin](#admin)* - Manage user accounts and moderate all content.
+
+*Admin role is granted by ES6-Enthusiasts. [Contact us](https://github.com/es6-enthusiasts) for more information.
 
 ## Guest
 *Browse recipes, vendors, and the community without signing up.*
@@ -27,7 +29,7 @@ Navigate to the community page to view all the awesome contributors that have sh
 ## Student
 *Create your own cookbook and share your recipes.*
 
-<img src="/images/tutorial/login.png" alt="Navbar" width="500"><br>
+<img src="/images/tutorial/signupStudent.png" alt="Navbar" width="500"><br>
 Log in or sign up for a student account. Access the login page through the navigation bar in the top right corner.
 
 <img src="/images/tutorial/cookbook.png" alt="Cookbook" width="500"><br>
@@ -42,7 +44,7 @@ Below the page title, you will see an option to add a new recipe to your cookboo
 ## Vendor
 *Establish your store profile and showcase your curated selection of ingredients.*
 
-<img src="/images/tutorial/login.png" alt="Navbar" width="500"><br>
+<img src="/images/tutorial/signupVendor.png" alt="Navbar" width="500"><br>
 Log in or sign up for a vendor account. Access the login page through the navigation bar in the top right corner.
 
 <img src="/images/tutorial/myStores.png" alt="My Stores" width="500"><br>
@@ -57,8 +59,7 @@ Below the page title, you will see an option to add a new store. Clicking the bu
 ## Admin
 *Manage user accounts and moderate all content.*
 
-<img src="/images/tutorial/login.png" alt="Navbar" width="500"><br>
-Log in or sign up for an admin account. Access the login page through the navigation bar in the top right corner.
+Admin role is granted by ES6-Enthusiasts. [Contact us](https://github.com/es6-enthusiasts) for more information.
 
 <img src="/images/tutorial/admin.png" alt="Admin" width="500"><br>
 Admins have access to all pages for every type of user. They can view additional information and modify all types of content to ensure the integrity of the application.
