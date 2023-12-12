@@ -6,13 +6,15 @@ Welcome to College Cuisine Connect, a project dedicated to helping students with
 ## Table of Contents
 
 - [Team Members](#team-members)
+- [Overview](#overview)
 - [Purpose](#purpose)
-- [Features](#features)
+- [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
 - [Mockups](#project-mockups)
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Milestones](#milestones)
-- [Tutorial](https://es6-enthusiasts.github.io/CollegeCuisineConnect/tutorial)
 
 ## Team Members
 
@@ -26,6 +28,14 @@ Welcome to College Cuisine Connect, a project dedicated to helping students with
  
 All members of this team have agreed to abide by the following [contract](https://docs.google.com/document/d/1o7tGRP024l86Usm7qH7RX9-gTofHFc-ff8x5b5ZbVPA/edit?usp=sharing).
 
+## Overview
+
+College Cuisine Connect is a project dedicated to helping students with limited cooking skills and resources find quality and healthy recipes. It aims to foster a sense of community by allowing students to share their own culinary experiences and support each other in their culinary journeys.
+
+The system provides a centralized platform that curates a diverse range of recipes tailored to the specific needs and constraints of college life. Recognizing that many students may have limited access to a fully equipped kitchen or face time constraints, College Cuisine Connect emphasizes recipes that are not only nutritious but also quick, budget-friendly, and easy to execute.
+
+Through a user-friendly interface, students can explore a variety of recipes, ranging from simple microwave-based meals to those requiring minimal cooking equipment. The platform also takes into consideration dietary preferences, allergies, and restrictions to ensure inclusivity and accommodate diverse needs within the UH community.
+
 ## Purpose
 
 College Cuisine Connect aims to accomplish the following goals:
@@ -35,20 +45,31 @@ College Cuisine Connect aims to accomplish the following goals:
 - Create a supportive community for sharing recipes and cooking experiences.
 
 ### Problem Statement:
+
 Many college students struggle to maintain a healthy diet due to time constraints, limited cooking facilities, and a lack of easy-to-follow recipes tailored to their specific needs. The absence of a dedicated platform catering to students with toaster ovens exacerbates the issue, as conventional cooking resources often overlook this common dormitory appliance. Consequently, students find it challenging to adopt nutritious eating habits, leading to a higher prevalence of unhealthy dietary choices and potential long-term health issues.
 
 ### Solution:
+
 In response to these challenges, we propose "College Cuisine Connect," a comprehensive platform designed to address the unique culinary needs of college students. Our solution involves providing a carefully curated collection of simple and healthy toaster oven-capable recipes specifically tailored for students, taking into account their time constraints and limited cooking resources. By doing so, we aim to empower students to make healthier food choices without compromising on convenience. Moreover, our platform will foster a supportive community where students can share their favorite recipes and cooking experiences, creating a collaborative environment that encourages the adoption of nutritious eating habits. Through College Cuisine Connect, we envision a positive shift in the dietary choices and overall well-being of college students, promoting a healthier lifestyle during their academic journey.
 
-## Features
+## User Guide
 
-- **"Toaster Oven Recipes"**: Explore a diverse range of simple recipes that are easy to follow and budget-friendly.
+Learn how to start using College Cuisine Connect now! [Follow our tutorial here](https://es6-enthusiasts.github.io/CollegeCuisineConnect/tutorial).
+TODO: Update images. Use john@foo.com as a test case
 
-- **Cooking Tips**: Find tips and tricks for using your cooking equipment effectively, even with limited resources.
+## Community Feedback
 
-- **Nutritional Information**: Access nutritional details for each recipe to make informed dietary choices.
+We sought feedback from the community, and here are some reflections and thoughts shared with us.
 
-- **User Contributions**: Share your own tried-and-true recipes or cooking ideas with the College Cuisine Connect community.
+- "I liked how the single recipe would pop up when viewing instead of taking me to another page."
+- "The aesthetics were really pleasing, but what I really liked about it was how easy it was to navigate through the site without getting lost or confused."
+- "I feel like a search bar would make the website easier to browse through."
+- "The navigational bar at the top could have some aesthetic improvements "
+
+Overall, the design and functionality were well-received, with most participants expressing positive sentiments. The application was unanimously considered easy to understand and navigate.
+
+## Developer Guide
+
 
 ## Project Mockups
 **Landing Page** <br>
@@ -124,8 +145,7 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 - [ ] Find at least five UH community members (not from ICS 314) to try out your system and provide feedback.
 - [ ] Implement acceptance testing.
 
-## Tutorial
-Learn how to start using College Cuisine Connect now! Follow our tutorial [here](https://es6-enthusiasts.github.io/CollegeCuisineConnect/tutorial).
+
 
 ---
 
