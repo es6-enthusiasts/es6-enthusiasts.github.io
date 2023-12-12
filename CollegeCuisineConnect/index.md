@@ -128,11 +128,13 @@ Usage:
 3. If you have a unique and more importantly simple recipe to share, click on the "Contribute" button and submit your own creation.
 4. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
 
-### [Milestone 1](https://github.com/orgs/es6-enthusiasts/projects/1)
+### Milestone 1
 Objectives:
 - [x] Deploy to Digital Ocean
 - [x] Functional landing page
 - [x] At least 4 mockup pages
+
+Milestone 1 was managed using [GitHub Project Board M1](https://github.com/orgs/es6-enthusiasts/projects/1).
 
 Sample of some implemented pages:
 
@@ -148,11 +150,13 @@ Sample of some implemented pages:
 **Edit Recipes** <br> 
 <img src="/images/m1_edit.png" alt="Edit Recipes" width="500">
 
-### [Milestone 2](https://github.com/orgs/es6-enthusiasts/projects/4)
+### Milestone 2
 Objectives:
 - [x] Four pages in addition to the Landing page
 - [x] At least one page in the deployment should read data from the database
 - [x] At least one page in the deployment should write data to the database
+
+Milestone 2 was managed using [GitHub Project Board M2](https://github.com/orgs/es6-enthusiasts/projects/4).
 
 Sample of some implemented pages:
 
@@ -168,12 +172,14 @@ Sample of some implemented pages:
 **My Cookbook** <br>
 <img src="/images/m2_cookbook.png" alt="View Recipes" width="500">
 
-### [Milestone 3](https://github.com/orgs/es6-enthusiasts/projects/5)
+### Milestone 3
 Objectives:
 - [x] Significantly improve the functionality of your system from Milestone M2.
 - [x] Incorporate a significant amount of “real” data into your system.
 - [x] Find at least five UH community members (not from ICS 314) to try out your system and provide feedback.
 - [x] Implement acceptance testing.
+
+Milestone 3 was managed using [GitHub Project Board M3](https://github.com/orgs/es6-enthusiasts/projects/5).
 
 Sample of some implemented pages:
 
