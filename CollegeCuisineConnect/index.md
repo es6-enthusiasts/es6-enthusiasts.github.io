@@ -7,14 +7,12 @@ Welcome to College Cuisine Connect, a project dedicated to helping students with
 
 - [Team Members](#team-members)
 - [Overview](#overview)
-- [Purpose](#purpose)
 - [User Guide](#user-guide)
 - [Community Feedback](#community-feedback)
 - [Developer Guide](#developer-guide)
-- [Mockups](#project-mockups)
-- [Usage](#usage)
 - [Deployment](#deployment)
-- [Milestones](#milestones)
+- [Continuous Integration](#continuous-integration)
+- [Development History](#development-history)
 
 ## Team Members
 
@@ -28,6 +26,8 @@ Welcome to College Cuisine Connect, a project dedicated to helping students with
  
 All members of this team have agreed to abide by the following [contract](https://docs.google.com/document/d/1o7tGRP024l86Usm7qH7RX9-gTofHFc-ff8x5b5ZbVPA/edit?usp=sharing).
 
+Feel free to contact us through our GitHub!
+
 ## Overview
 
 College Cuisine Connect is a project dedicated to helping students with limited cooking skills and resources find quality and healthy recipes. It aims to foster a sense of community by allowing students to share their own culinary experiences and support each other in their culinary journeys.
@@ -36,7 +36,7 @@ The system provides a centralized platform that curates a diverse range of recip
 
 Through a user-friendly interface, students can explore a variety of recipes, ranging from simple microwave-based meals to those requiring minimal cooking equipment. The platform also takes into consideration dietary preferences, allergies, and restrictions to ensure inclusivity and accommodate diverse needs within the UH community.
 
-## Purpose
+### Purpose
 
 College Cuisine Connect aims to accomplish the following goals:
 
@@ -55,7 +55,6 @@ In response to these challenges, we propose "College Cuisine Connect," a compreh
 ## User Guide
 
 Learn how to start using College Cuisine Connect now! [Follow our tutorial here](https://es6-enthusiasts.github.io/CollegeCuisineConnect/tutorial).
-TODO: Update images. Use john@foo.com as a test case
 
 ## Community Feedback
 
@@ -70,8 +69,44 @@ Overall, the design and functionality were well-received, with most participants
 
 ## Developer Guide
 
+This section is intended for developers seeking guidance on downloading, installing, executing, and customizing the system.
 
-## Project Mockups
+1. Install [Meteor](https://www.meteor.com/install).
+2. Clone the [College Cuisine Connect repository](https://github.com/es6-enthusiasts/ToasterOvenLovin) from GitHub to your local machine.
+3. cd into the ToasterOvenLovin/app directory and install libraries with:
+```$ meteor npm install```
+4. Run the system with:
+```$ meteor npm run start```
+5. The application will appear at http://localhost:3000.
+
+## Deployment
+Our [College Cuisine Connect application](https://collegecuisineconnect.site/) is running on Digital Ocean.
+
+## Continuous Integration
+![ci-badge](https://github.com/es6-enthusiasts/ToasterOvenLovin/workflows/college-cuisine-connect/badge.svg)
+
+College Cuisine Connect uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent “workflows” [here](https://github.com/es6-enthusiasts/ToasterOvenLovin/actions).
+
+The workflow definition file is located at .github/workflows/ci.yml.
+
+## Development History
+
+The development process for College Cuisine Connect conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+
+- Development consists of a sequence of Milestones.
+- Each Milestone is specified as a set of tasks.
+- Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+- Tasks should typically consist of work that can be completed in 2-4 days.
+- The work for each task is accomplished with a git branch named “issue-XX”, where XX is replaced by the issue number.
+- When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+- The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of College Cuisine Connect.
+
+### Project Mockups
+
+The following images are mockups of pages we want to add to our application.
+
 **Landing Page** <br>
 <img src="/images/MockupCrop.png" alt="Landing Page" width="500">
 
@@ -87,28 +122,19 @@ Overall, the design and functionality were well-received, with most participants
 **Edit Recipe** <br>
 <img src="/images/EditRecipe.jpeg" alt="Edit Recipe" width="500">
 
-## Usage
-
+Usage:
 1. Browse the recipe categories and select a recipe that piques your interest.
-
 2. Follow the step-by-step instructions, and don't forget to check the nutritional information.
-
 3. If you have a unique and more importantly simple recipe to share, click on the "Contribute" button and submit your own creation.
-
 4. Engage with the community by sharing your recipes, and seeking cooking advice from fellow students.
 
-## Deployment
-Our [College Cuisine Connect application](https://collegecuisineconnect.site/) is running on Digital Ocean.
-
-## Continuous Integration
-![ci-badge](https://github.com/es6-enthusiasts/ToasterOvenLovin/workflows/college-cuisine-connect/badge.svg)
-
-## Milestones
-
-[**Milestone 1**](https://github.com/orgs/es6-enthusiasts/projects/1)
+### [Milestone 1](https://github.com/orgs/es6-enthusiasts/projects/1)
+Objectives:
 - [x] Deploy to Digital Ocean
 - [x] Functional landing page
 - [x] At least 4 mockup pages
+
+Sample of some implemented pages:
 
 **Landing** <br>
 <img src="/images/m1_landing.png" alt="Landing" width="500">
@@ -122,10 +148,13 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 **Edit Recipes** <br> 
 <img src="/images/m1_edit.png" alt="Edit Recipes" width="500">
 
-[**Milestone 2**](https://github.com/orgs/es6-enthusiasts/projects/4)
+### [Milestone 2](https://github.com/orgs/es6-enthusiasts/projects/4)
+Objectives:
 - [x] Four pages in addition to the Landing page
 - [x] At least one page in the deployment should read data from the database
 - [x] At least one page in the deployment should write data to the database
+
+Sample of some implemented pages:
 
 **Add Recipes** <br>
 <img src="/images/add_recipe.png" alt="View Recipes" width="500">
@@ -139,13 +168,26 @@ Our [College Cuisine Connect application](https://collegecuisineconnect.site/) i
 **My Cookbook** <br>
 <img src="/images/m2_cookbook.png" alt="View Recipes" width="500">
 
-[**Milestone 3**](https://github.com/orgs/es6-enthusiasts/projects/5)
-- [ ] Significantly improve the functionality of your system from Milestone M2.
-- [ ] Incorporate a significant amount of “real” data into your system.
-- [ ] Find at least five UH community members (not from ICS 314) to try out your system and provide feedback.
-- [ ] Implement acceptance testing.
+### [Milestone 3](https://github.com/orgs/es6-enthusiasts/projects/5)
+Objectives:
+- [x] Significantly improve the functionality of your system from Milestone M2.
+- [x] Incorporate a significant amount of “real” data into your system.
+- [x] Find at least five UH community members (not from ICS 314) to try out your system and provide feedback.
+- [x] Implement acceptance testing.
 
+Sample of some implemented pages:
 
+**Landing** <br>
+<img src="/images/tutorial/home.png" alt="Home" width="500">
+
+**My Cookbook** <br>
+<img src="/images/tutorial/cookbook.png" alt="Cookbook" width="500">
+
+**Vendors** <br>
+<img src="/images/tutorial/myStores.png" alt="My Stores" width="500">
+
+**Edit Recipe** <br>
+<img src="/images/tutorial/editRecipe.png" alt="Edit Recipe" width="500"><br>
 
 ---
 
