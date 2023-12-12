@@ -32,6 +32,10 @@ Navigate to the community page to view all the awesome contributors that have sh
 <img src="/images/tutorial/signupStudent.png" alt="Navbar" width="500"><br>
 Log in or sign up for a student account. Access the login page through the navigation bar in the top right corner.
 
+Try out the student user experience using the following test credentials:
+Email: john@foo.com
+Password: changeme
+
 <img src="/images/tutorial/cookbook.png" alt="Cookbook" width="500"><br>
 In the navigation bar, click on "My Cookbook" to view your cookbook. This page displays all of the recipes you have created. 
 
@@ -47,6 +51,10 @@ Below the page title, you will see an option to add a new recipe to your cookboo
 <img src="/images/tutorial/signupVendor.png" alt="Navbar" width="500"><br>
 Log in or sign up for a vendor account. Access the login page through the navigation bar in the top right corner.
 
+Try out the vendor user experience using the following test credentials:
+Email: vendor@foo.com
+Password: changeme
+
 <img src="/images/tutorial/myStores.png" alt="My Stores" width="500"><br>
 In the navigation bar, click on "My Stores" to view stores that belong to you.
 
@@ -61,8 +69,14 @@ Below the page title, you will see an option to add a new store. Clicking the bu
 
 Admin role is granted by ES6-Enthusiasts. [Contact us](https://github.com/es6-enthusiasts) for more information.
 
+Try out the admin user experience using the following test credentials:
+Email: admin@foo.com
+Password: changeme
+
 <img src="/images/tutorial/admin.png" alt="Admin" width="500"><br>
 Admins have access to all pages for every type of user. They can view additional information and modify all types of content to ensure the integrity of the application.
 
 ---
-Culinary Adventures Await – Bon Appétit!
+[Return to home page](https://es6-enthusiasts.github.io/CollegeCuisineConnect/).
+
+*Culinary Adventures Await – Bon Appétit!*
